@@ -1,0 +1,16 @@
+*.bit
+*.pt
+*.pkl
+*.zip
+*.de
+*.errr
+*.json
+*.model
+*.vocab
+*.csv
+*.txt
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
